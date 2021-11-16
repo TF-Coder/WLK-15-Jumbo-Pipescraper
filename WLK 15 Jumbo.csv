@@ -1,0 +1,7 @@
+#datatype long,long,long,long,long,long,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,long
+Drehz_Rotor,Druck_Rotor,Strom_Rotor,schieber_pos,schieber_druck,Temperatur_Oel,K80_schieber_vor,K81_schieber_rueck,Wartung,U1_reversieren,U2_schieber_stopp,U3_umschaltung_schieber,U9_Zufuehrung_aus,standby_schieber,standby_WLK,Sammelstoerung,Sammelwarnung,Betriebsstunden
+80,50,77,216,6,38,false,false,false,false,true,false,false,false,false,false,false,21530
+81,32,74,174,61,38,false,true,false,false,true,false,false,false,false,false,false,21530
+81,31,72,110,61,38,false,true,false,false,true,false,false,false,false,false,false,21530
+81,31,73,46,61,38,false,true,false,false,true,false,false,false,false,false,false,21530
+81,33,73,41,12,38,true,false,false,false,true,false,false,false,false,false,false,21530
